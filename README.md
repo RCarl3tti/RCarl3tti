@@ -63,6 +63,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RCarl3tti/RCarl3tti/output/snake.svg" alt="Snake animation" />
 
 ###
